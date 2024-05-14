@@ -1,7 +1,7 @@
 # hotel-booking-manager-api-ms
 hotel-booking-manager-api-ms micro-service for room booking in hotel for client.  
 
-# task is to implement a simple hotel booking manager in Java, as a microservice API. The number of rooms should be configurable, and it should expose the following methods:
+# Task is to implement a simple hotel booking manager in Java, as a microservice API. The number of rooms should be configurable, and it should expose the following methods:
  1. A method to store a booking. A booking consists of a guest name, a room number, and a date.  
  2. A method to find the available rooms on a given date.  
  3. A method to find all the bookings for a given guest. 
